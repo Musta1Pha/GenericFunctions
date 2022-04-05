@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649201230 source:c:\users\mustapha\desktop\fonctionsgeneriques\main.cpp
+	<iostream>
+
+1649000892 c:\users\mustapha\desktop\fonctionsgeneriques\include\templateclass.h
+	<iostream>
+
+1649001962 source:c:\users\mustapha\desktop\fonctionsgeneriques\src\templateclass.cpp
+
